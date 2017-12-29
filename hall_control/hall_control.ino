@@ -15,9 +15,9 @@ Sunrise mySunrise(40.24, 49.52, 4);  // lat - lon - time zone
 int pingCheck = false;
 int blynkConnected = false;
 
-char ssid[]   = "RH";
-char pass[]   = "0703507541";
-char auth[]   = "efca4a3aa2474be9ad1a9369eeaeb675";
+char ssid[]   = "";
+char pass[]   = "";
+char auth[]   = "";
 char server[] = "45.55.96.146";
 
 WidgetLED Sts_Led  (V0);
