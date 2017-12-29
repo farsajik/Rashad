@@ -11,9 +11,9 @@ AsyncPing Pings;
 int pingCheck = false;
 int blynkConnected = false;
 
-char ssid[]   = "RH";
-char pass[]   = "0703507541";
-char auth[]   = "310bc42cce5c483b9b41b20913489bc2";
+char ssid[]   = "";
+char pass[]   = "";
+char auth[]   = "";
 char server[] = "45.55.96.146";
 
 WidgetLED Sts_Led  (V0);
