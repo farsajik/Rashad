@@ -13,7 +13,7 @@ int blynkConnected = false;
 char ssid[]   = "";
 char pass[]   = "";
 char auth[]   = "";
-char server[] = "45.55.96.146";
+char server[] = "";
 
 WidgetLED Sts_Led  (V0);
 int Sts;
